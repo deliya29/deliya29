@@ -1,11 +1,11 @@
 <h2 align="start">Hi 👋, I'm Deliya Syafa</h2>
 <h3 align="center">🌸 Aspiring Frontend Developer & UI/UX Designer</h3>
 
-- 🔭 Saat ini saya sedang mengerjakan **proyek aplikasi keuangan (budgeting)** **https://kiki.iqbalandina.com** 
-- 🌱 Sedang mendalami **Machine Learning** untuk tugas akhir / skripsi  
-- 👩‍💻 Belajar **Laravel** untuk memperluas kemampuan backend  
-- 🎨 Mengembangkan kemampuan desain UI/UX dengan **Figma**
-- 📫 How to reach me **syafadeliya@gmail.com**
+🔭 Saat ini saya sedang mengerjakan **proyek aplikasi keuangan (budgeting)** **https://kiki.iqbalandina.com** 
+🌱 Sedang mendalami **Machine Learning** untuk tugas akhir / skripsi  
+👩‍💻 Belajar **Laravel** untuk memperluas kemampuan backend  
+🎨 Mengembangkan kemampuan desain UI/UX dengan **Figma**
+📫 How to reach me **syafadeliya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
